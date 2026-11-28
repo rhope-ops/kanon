@@ -1,13 +1,14 @@
 # Decisions: 90-161.Z
 
-Newest first. "By" = Administrator (before 2026-11-27: PFM) for a decision. "By" = Agent for a recommendation that PFM has not approved yet.
-A record that agents read on demand, not at the start of a session (the PFM, 2026-11-16): a row binds the task or thing it names; only a line in AGENTS.md binds every session (AGENTS.md "Rules and decisions").
+Newest first. "By" = Administrator (before 2026-11-27: PFM) for a decision. "By" = Agent for a recommendation that the Administrator has not approved yet.
+A record that agents read on demand, not at the start of a session (the PFM, 2026-11-16): a row binds the task or thing it names; only a line in AGENTS.md binds every session (AGENTS.md "Order of authority").
 One table (PFM C, 2026-11-13; replaces the B2A short index + archive pair): one line per decision, 200 characters or fewer; detail lives in the linked doc. Rows from before 13 Nov 26 15:30 have full text in docs/decisions-archive.md "Full text of current rows"; read it before you act on them.
 
 <!-- approval-quote-exempt-from: Kit sync to main 790d832 (no tag; version 11.0.1): SessionStart hook installs the kit package (kit #173); reviewer delete block (#174). No baseline or .check change. -->
 
 | Date | Decision | By | Detail |
 |---|---|---|---|
+| 2026-11-27 | AGENTS.md rule text: header "# Kanon: agent instructions", "Repo: rhope-ops/kanon", "Short name: Kanon" (with the Kit 16 sync); Project rules lines Data boundary, No reconnaissance, Screen names, No scripts in results use "the Administrator"; Next-step link names https://github.com/rhope-ops/kanon, which replaces the `home` value of the 2026-11-25 Pages-off row. Applied with the Kit 16 sync (the kit text then names the Administrator; fresh conflict check 2026-11-28). | Administrator ("a", own message, 2026-11-28 05:35, to the question that showed the 8 exact lines) | docs/reviews/2026-11-27-plan-f6.md |
 | 2026-11-27 | Skip R48: R49 replaces it and carries the R48 open tests plus all F6 changes; the R49 build starts on the F6 branch now. | Administrator ("Skip R48, R49 replaces it", question dialog, 2026-11-27 21:00) | docs/reviews/2026-11-27-plan-f6.md |
 | 2026-11-27 | F6 archive list: T23, T15, T10, T13 and T28 leave (git rm plus a row in docs/reviews/archive-index.md); T01, T06, T11, T21, T26, T27, T29, T30 stay. | Administrator ("1a", own message, 2026-11-27 20:10) | docs/reviews/2026-11-27-plan-f6.md |
 | 2026-11-27 | F6 T22: remove all inline C#, DPI call included (as RADE F3); cards, chips, step bar and wheel become PowerShell classes with the same look; text may look soft at 125 % or more. | Administrator ("Accept soft text", question dialog, 2026-11-27 20:00) | docs/reviews/2026-11-27-plan-f6.md |
