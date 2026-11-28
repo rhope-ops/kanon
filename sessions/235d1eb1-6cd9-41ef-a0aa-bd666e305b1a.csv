@@ -1,0 +1,8 @@
+message_id,timestamp,turn,session_id,repo,model,source,agent,agent_id,input_tokens,cache_creation_input_tokens,cache_read_input_tokens,output_tokens,cache_write_1h_tokens,speed,web_search_requests,inference_geo,skill_use
+msg_011ChVT6o148cstHckz8rSgQ,2026-11-28T14:03:18.911Z,2,235d1eb1-6cd9-41ef-a0aa-bd666e305b1a,kanon,claude-opus-5-5,main,main,,2,34085,64561,417,34085,standard,0,global,
+msg_011ChVT7FahmsGh7uqzCxZUo,2026-11-28T14:03:24.473Z,2,235d1eb1-6cd9-41ef-a0aa-bd666e305b1a,kanon,claude-opus-5-5,main,main,,2,1208,98646,306,1208,standard,0,global,
+msg_011ChVT7eCF6jcMaY1SpB6r1,2026-11-28T14:03:29.675Z,2,235d1eb1-6cd9-41ef-a0aa-bd666e305b1a,kanon,claude-opus-5-5,main,main,,2,354,99854,195,354,standard,0,global,
+msg_011ChVT822fLoMBVVEqBw7TD,2026-11-28T14:03:37.006Z,2,235d1eb1-6cd9-41ef-a0aa-bd666e305b1a,kanon,claude-opus-5-5,main,main,,2,2597,100208,334,2597,standard,0,global,
+msg_011ChVT8VnWXp5tsrnm9Madw,2026-11-28T14:03:40.594Z,2,235d1eb1-6cd9-41ef-a0aa-bd666e305b1a,kanon,claude-opus-5-5,main,main,,2,424,102805,143,424,standard,0,global,
+msg_011ChVT8nxcr34s6jCCU4Yn8,2026-11-28T14:03:45.985Z,2,235d1eb1-6cd9-41ef-a0aa-bd666e305b1a,kanon,claude-opus-5-5,main,main,,2,303,103229,273,303,standard,0,global,
+msg_011ChVT9MKnvBwzMQLYpCRHs,2026-11-28T14:04:01.815Z,2,235d1eb1-6cd9-41ef-a0aa-bd666e305b1a,kanon,claude-opus-5-5,main,main,,1,731,103532,1262,731,standard,0,global,
