@@ -67,7 +67,7 @@
   "scripts/fleet_harvest_parse.py": "a70338a0497ed8c14326f4aa5a536142652476bb3b966ebd9a468cdf67edfd6a",
   "scripts/fleet_harvest_test.py": "7b0a9f9b3dacdcb12908cc23a254a08fda33bc0284d65b8f7f8ad2f709dd3212",
   "scripts/fulcrum_palette.py": "044c4c7039f10362a8d6f7b857e4f82f1eddba0d985dde783eb754466f39e30c",
-  "scripts/git-hooks/pre-push": "170ca31be142d559d3fa2137c42325fad55f7f57d743222cc8dc888b7659e3f1",
+  "scripts/git-hooks/pre-push": "958fe65cb9a2d95a591007337e341d0e7951558b959ac919a25bda097f74c2c6",
   "scripts/log_check.py": "9d6746631d9bc0a6cfa9b087a039677156bd6c3ffb9cfcd9c2e4752a7939a026",
   "scripts/log_check_plan.py": "57b3bcd43815430f485dafaa7327e1baf0d801a93f624788aa57620bdef1f842",
   "scripts/session_checkin.sh": "6fd886079591ccbadd1900ef04a20cad0c323f9c8a363a58b370efba8130e741",
@@ -79,6 +79,8 @@
   "scripts/worker_guard_scan_samples.json": "445b4875e07e78157e9cf4e4fa17937f0b4c609f934f97c43730b08f024ff455"
  },
  "kit": "archimedes_lever",
- "overrides": [],
+ "overrides": [
+  "scripts/git-hooks/pre-push"
+ ],
  "version": "13.1.1"
 }
